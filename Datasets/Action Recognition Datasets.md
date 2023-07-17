@@ -1,5 +1,5 @@
 
-## Action Recognition
+General Purpose Datasets
 [[AVA]]
 [[JAAD]]
 [[Kinetics]]

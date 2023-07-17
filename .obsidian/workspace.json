@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/Epic Kitchens.md",
+                "file": "Datasets/Action Recognition Datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/Epic Kitchens.md",
+                "file": "Datasets/Action Recognition Datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,14 +112,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0490631db22e6d6e",
+  "active": "b224bfc1a1384f63",
   "lastOpenFiles": [
-    "Reading Notes/@martinDriveActMultiModal2019.md",
+    "Datasets/UCF.md",
+    "Datasets/Kinetics.md",
+    "Datasets/Action Recognition Datasets.md",
     "Reading Notes/@weiConvolutionalPoseMachines2016.md",
+    "Reading Notes/@martinDriveActMultiModal2019.md",
+    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+    "Datasets/Driver Monitoring.md",
+    "Datasets/AVA.md",
+    "Datasets/Driver Monitoring/Drive.md",
+    "Datasets/Driver Monitoring/DMD.md",
+    "Datasets/Driver Monitoring/DAD.md",
+    "Datasets/Epic Kitchens.md",
+    "Reading notes/@damenEPICKITCHENSDatasetCollection2021.md",
     "Reading notes/@martinDriveActMultiModal2019.md",
     "Reading notes/@weiConvolutionalPoseMachines2016.md",
     "Tasks/Action Recognition.md",
-    "Datasets/UCF.md",
     "Bibliography/Driver Monitoring/Deep CNN, Body Pose, and Body-Object Interaction Features for Drivers’ Activity Monitoring.md",
     "Reading Notes/Drive&Act 2019.md",
     "Datasets/Driver Monitoring/Drive and Act.md",
@@ -131,17 +141,7 @@
     "Datasets/Pedestrian Behaviour/ROAD.md",
     "Datasets/Pedestrian Behaviour/PIE.md",
     "Datasets/Pedestrian Behaviour/JAAD.md",
-    "Datasets/Driver Monitoring/DMD.md",
-    "Datasets/Driver Monitoring/DAD.md",
     "Methods of Learning.md",
-    "Datasets/Datasets.md",
-    "Datasets/Epic Kitchens.md",
-    "Datasets/HMDB51.md",
-    "Datasets/Kinetics.md",
-    "Images/Pasted image 20220325101205.png",
-    "Bibliography/Other/CNN Translation Invariance.md",
-    "Bibliography/Barlow Twins.md",
-    "PhD Thesis.md",
-    "Action Recognition Architectures.md"
+    "Images/Pasted image 20220325101205.png"
   ]
 }
