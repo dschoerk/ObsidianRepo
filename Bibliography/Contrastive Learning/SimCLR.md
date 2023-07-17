@@ -1,4 +1,4 @@
-source: https://lilianweng.github.io/posts/2021-05-31-contrastive/#heavy-data-augmentation
+asource: https://lilianweng.github.io/posts/2021-05-31-contrastive/#heavy-data-augmentation
 
 https://arxiv.org/abs/2002.05709
 
