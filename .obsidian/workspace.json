@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2ad2d440232b70",
+        "id": "7a9d6058eb58d922",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf060b5348131e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3893d58493c7e2e2",
+            "id": "0490631db22e6d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/Driver Monitoring/Drive and Act.md",
+                "file": "Datasets/Epic Kitchens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/Driver Monitoring/Drive and Act.md",
+                "file": "Datasets/Epic Kitchens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +112,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3893d58493c7e2e2",
+  "active": "0490631db22e6d6e",
   "lastOpenFiles": [
+    "Reading Notes/@martinDriveActMultiModal2019.md",
+    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
+    "Reading notes/@martinDriveActMultiModal2019.md",
+    "Reading notes/@weiConvolutionalPoseMachines2016.md",
+    "Tasks/Action Recognition.md",
+    "Datasets/UCF.md",
+    "Bibliography/Driver Monitoring/Deep CNN, Body Pose, and Body-Object Interaction Features for Drivers’ Activity Monitoring.md",
+    "Reading Notes/Drive&Act 2019.md",
+    "Datasets/Driver Monitoring/Drive and Act.md",
+    "Reading Notes",
     "Untitled.canvas",
     "Video Understanding.md",
     "Talks & Presentations.md",
@@ -130,7 +131,6 @@
     "Datasets/Pedestrian Behaviour/ROAD.md",
     "Datasets/Pedestrian Behaviour/PIE.md",
     "Datasets/Pedestrian Behaviour/JAAD.md",
-    "Datasets/Driver Monitoring/Drive and Act.md",
     "Datasets/Driver Monitoring/DMD.md",
     "Datasets/Driver Monitoring/DAD.md",
     "Methods of Learning.md",
@@ -138,14 +138,10 @@
     "Datasets/Epic Kitchens.md",
     "Datasets/HMDB51.md",
     "Datasets/Kinetics.md",
-    "Datasets/UCF.md",
     "Images/Pasted image 20220325101205.png",
     "Bibliography/Other/CNN Translation Invariance.md",
     "Bibliography/Barlow Twins.md",
     "PhD Thesis.md",
-    "Action Recognition Architectures.md",
-    "Tasks/Action Recognition.md",
-    "Researchers.md",
-    "Research Questions.md"
+    "Action Recognition Architectures.md"
   ]
 }

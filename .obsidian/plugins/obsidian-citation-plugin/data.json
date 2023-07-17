@@ -1,9 +1,9 @@
 {
-  "citationExportFormat": "biblatex",
+  "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Reading notes",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "D:/ownCloud/misc/ZoteroExport.bib"
+  "citationExportPath": "D:/ownCloud/misc/My Library.json"
 }
