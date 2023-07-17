@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b1357f0fcadcf973",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e7d165c0a48217",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bibliography/Other/CNN Translation Invariance.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "247287b43d67d4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33a0e58d8ddb7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b224bfc1a1384f63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "006843faeb3344ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e21d1889bd28de",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f0ec2bbf13ced9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828769bdc5ed913b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bibliography/Other/CNN Translation Invariance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53e7d165c0a48217",
+  "lastOpenFiles": [
+    "Bibliography/Other/CNN Translation Invariance.md",
+    "Bibliography/Barlow Twins.md",
+    "PhD Thesis.md",
+    "Action Recognition Architectures.md",
+    "Tasks/Action Recognition.md",
+    "Video Understanding.md",
+    "Talks & Presentations.md",
+    "Researchers.md",
+    "Research Questions.md",
+    "Methods of Learning.md"
+  ]
+}
