@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/UCF.md",
+                "file": "templates/post.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/UCF.md",
+                "file": "templates/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,9 @@
   },
   "active": "4ab56c89cf05b992",
   "lastOpenFiles": [
+    "Datasets/UCF.md",
+    "templates/post.md",
+    "templates",
     "Datasets/Action Recognition Datasets.md",
     "Datasets/Epic Kitchens.md",
     "Datasets/Driver Monitoring.md",
@@ -142,7 +145,6 @@
     "Research Questions.md",
     "PhD Thesis.md",
     "Data Modalities.md",
-    "Datasets/UCF.md",
     "Datasets/Kinetics.md",
     "Reading Notes/@weiConvolutionalPoseMachines2016.md",
     "Reading Notes/@martinDriveActMultiModal2019.md",
@@ -153,7 +155,6 @@
     "Reading notes/@damenEPICKITCHENSDatasetCollection2021.md",
     "Reading notes/@martinDriveActMultiModal2019.md",
     "Reading notes/@weiConvolutionalPoseMachines2016.md",
-    "Tasks/Action Recognition.md",
     "Reading Notes",
     "Untitled.canvas",
     "Images/Pasted image 20220325101205.png"
