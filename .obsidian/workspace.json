@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ab56c89cf05b992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/post.md",
+                "file": "Bibliography/Contrastive Learning/SimCLR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,10 +113,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ab56c89cf05b992",
+  "active": "0490631db22e6d6e",
   "lastOpenFiles": [
-    "Datasets/UCF.md",
+    "Reading Notes/@martinDriveActMultiModal2019.md",
+    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
     "templates/post.md",
+    "Datasets/UCF.md",
     "templates",
     "Datasets/Action Recognition Datasets.md",
     "Datasets/Epic Kitchens.md",
@@ -146,9 +136,6 @@
     "PhD Thesis.md",
     "Data Modalities.md",
     "Datasets/Kinetics.md",
-    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
-    "Reading Notes/@martinDriveActMultiModal2019.md",
-    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
     "Datasets/Driver Monitoring/Drive.md",
     "Datasets/Driver Monitoring/DMD.md",
     "Datasets/Driver Monitoring/DAD.md",
