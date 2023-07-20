@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliography/Contrastive Learning/SimCLR.md",
+                "file": "Reading Notes/weiConvolutionalPoseMachines2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/Contrastive Learning/SimCLR.md",
+                "file": "Reading Notes/weiConvolutionalPoseMachines2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,10 @@
   },
   "active": "0490631db22e6d6e",
   "lastOpenFiles": [
-    "Reading Notes/@martinDriveActMultiModal2019.md",
-    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
-    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+    "Reading Notes/martinDriveActMultiModal2019.md",
+    "Reading Notes/damenEPICKITCHENSDatasetCollection2021.md",
+    "Bibliography/Contrastive Learning/SimCLR.md",
+    "Reading Notes/weiConvolutionalPoseMachines2016.md",
     "Reading Notes",
     "templates/post.md",
     "Datasets/UCF.md",
@@ -127,7 +128,6 @@
     "Datasets/Driver Monitoring.md",
     "Datasets/AVA.md",
     "Notes on Emotion Recognition.md",
-    "Bibliography/Contrastive Learning/SimCLR.md",
     "Bibliography/Contrastive Learning/TCLR.md",
     "Bibliography/Contrastive Learning/Barlow Twins.md",
     "Video Understanding.md",
