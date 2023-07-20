@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Notes/damenEPICKITCHENSDatasetCollection2021.md",
+                "file": "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/damenEPICKITCHENSDatasetCollection2021.md",
+                "file": "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "0490631db22e6d6e",
   "lastOpenFiles": [
-    "Reading Notes/weiConvolutionalPoseMachines2016.md",
-    "Reading Notes/martinDriveActMultiModal2019.md",
-    "Reading Notes/damenEPICKITCHENSDatasetCollection2021.md",
+    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
+    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+    "Reading Notes/@martinDriveActMultiModal2019.md",
     "Bibliography/Contrastive Learning/SimCLR.md",
     "Reading Notes",
     "templates/post.md",
