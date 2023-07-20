@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d83bdf1372c2159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +126,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0490631db22e6d6e",
+  "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
-    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
     "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+    "_index.md",
+    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
     "Reading Notes/@martinDriveActMultiModal2019.md",
     "Bibliography/Contrastive Learning/SimCLR.md",
     "Reading Notes",
