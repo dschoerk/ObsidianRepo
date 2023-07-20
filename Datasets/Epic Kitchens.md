@@ -1,4 +1,8 @@
-# Epic Kitchens
+---
+tag: Dataset, ActionRecognition
+
+---
+
 https://epic-kitchens.github.io/2022
 
 The **large-scale dataset in first-person (egocentric) vision**; multi-faceted, audio-visual, **non-scripted** recordings in native environments - i.e. the wearers' homes, capturing all daily activities in the kitchen over multiple days. Annotations are collected using a novel 'Pause-and-Talk' narration interface.
