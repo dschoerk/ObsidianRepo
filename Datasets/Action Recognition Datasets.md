@@ -6,7 +6,9 @@
 [[Kinetics]]
 [[UCF]]
 
-```dataview TABLE rating AS "Rating", summary AS "Summary" FROM #games SORT rating DESC ```
+```dataview LIST from "Datasets" sort rating desc```
+
+
 
 | Dataset name | Annotations | Year |
 | ------------ | ----------- | ---- |
