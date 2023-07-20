@@ -13,22 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+                "file": "Bibliography/Contrastive Learning/SimCLR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d83bdf1372c2159",
+            "id": "4ab56c89cf05b992",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,30 +113,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d83bdf1372c2159",
+  "active": "4ab56c89cf05b992",
   "lastOpenFiles": [
-    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
-    "_index.md",
-    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
-    "Reading Notes/@martinDriveActMultiModal2019.md",
-    "Bibliography/Contrastive Learning/SimCLR.md",
-    "Reading Notes",
-    "templates/post.md",
-    "Datasets/UCF.md",
-    "templates",
-    "Datasets/Action Recognition Datasets.md",
-    "Datasets/Epic Kitchens.md",
-    "Datasets/Driver Monitoring.md",
-    "Datasets/AVA.md",
     "Notes on Emotion Recognition.md",
+    "templates/post.md",
+    "templates",
+    "_index.md",
+    "Bibliography/Contrastive Learning/SimCLR.md",
     "Bibliography/Contrastive Learning/TCLR.md",
     "Bibliography/Contrastive Learning/Barlow Twins.md",
     "Video Understanding.md",
@@ -150,12 +136,21 @@
     "Research Questions.md",
     "PhD Thesis.md",
     "Data Modalities.md",
+    "Datasets/Action Recognition Datasets.md",
+    "Datasets/AVA.md",
+    "Datasets/Driver Monitoring.md",
+    "Datasets/UCF.md",
     "Datasets/Kinetics.md",
+    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
+    "Reading Notes/@martinDriveActMultiModal2019.md",
+    "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
     "Datasets/Driver Monitoring/Drive.md",
     "Datasets/Driver Monitoring/DMD.md",
     "Datasets/Driver Monitoring/DAD.md",
+    "Datasets/Epic Kitchens.md",
     "Reading notes/@damenEPICKITCHENSDatasetCollection2021.md",
     "Reading notes/@martinDriveActMultiModal2019.md",
+    "Reading Notes",
     "Untitled.canvas",
     "Images/Pasted image 20220325101205.png"
   ]
