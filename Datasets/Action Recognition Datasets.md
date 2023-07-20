@@ -6,7 +6,9 @@
 [[Kinetics]]
 [[UCF]]
 
-```dataview LIST from "Datasets" sort rating desc```
+``` dataview 
+TABLE from "Datasets/#Dataset" sort rating desc 
+```
 
 
 
