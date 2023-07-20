@@ -7,7 +7,7 @@
 [[UCF]]
 
 ``` dataview 
-TABLE from "Datasets/#Dataset" sort rating desc 
+TABLE size from #Dataset and "Datasets" sort rating desc 
 ```
 
 
