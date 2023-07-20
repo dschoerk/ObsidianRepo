@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on Emotion Recognition.md",
+                "file": "Datasets/Action Recognition Datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on Emotion Recognition.md",
+                "file": "Datasets/Action Recognition Datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,18 +118,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4ab56c89cf05b992",
   "lastOpenFiles": [
-    "Bibliography/Contrastive Learning/SimCLR.md",
     "Notes on Emotion Recognition.md",
+    "Bibliography/Contrastive Learning/SimCLR.md",
     "Bibliography/Contrastive Learning/TCLR.md",
     "Bibliography/Contrastive Learning/Barlow Twins.md",
     "Video Understanding.md",
