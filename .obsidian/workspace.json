@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
+                "file": "Reading notes/@mishraInCabinMonitoringSystem2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
+                "file": "Reading notes/@mishraInCabinMonitoringSystem2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +140,20 @@
   },
   "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
+    "Notes/Driver and Occupant Monitoring.md",
+    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
+    "Reading notes/@mishraInCabinMonitoringSystem2022.md",
+    "Notes/Human Pose Estimation.md",
+    "Bibliography/Driver Monitoring/Driver Anomaly Detection A Dataset and Contrastive Learning Approach.md",
+    "Notes",
+    "Bibliography/Driver Monitoring/Driver Behavior Analysis via Two-Stream Deep Convolutional Neural Network.md",
+    "Bibliography/Driver Monitoring/Open Set Driver Activity Recognition.md",
+    "Bibliography/Driver Monitoring/Deep CNN, Body Pose, and Body-Object Interaction Features for Drivers’ Activity Monitoring.md",
     "Reading notes/@martinEvaluationDifferentMethods2021.md",
     "Pasted image 20230803114620.png",
-    "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
     "Reading Notes/@martinEvaluationDifferentMethods2021.md",
     "Emotion Recognition.md",
-    "Bibliography/Human Pose Estimation",
+    "Notes/Human Pose Estimation",
     "Datasets/Action Recognition Datasets.md",
     "conflict-files-obsidian-git.md",
     "_index.md",
@@ -163,12 +171,6 @@
     "Notes on Emotion Recognition.md",
     "Bibliography/Contrastive Learning/TCLR.md",
     "Bibliography/Contrastive Learning/Barlow Twins.md",
-    "Video Understanding.md",
-    "Talks & Presentations.md",
-    "Researchers.md",
-    "Research Questions.md",
-    "PhD Thesis.md",
-    "Data Modalities.md",
     "Untitled.canvas",
     "Images/Pasted image 20220325101205.png"
   ]
