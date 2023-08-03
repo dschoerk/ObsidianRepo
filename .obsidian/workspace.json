@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Reading notes/@tuVoxelPoseMulticamera3D2020.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Reading notes/@tuVoxelPoseMulticamera3D2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,13 @@
   },
   "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
+    "Notes/Human Pose Estimation.md",
+    "Reading Notes/@tuVoxelPoseMulticamera3D2020.md",
+    "Reading notes/@tuVoxelPoseMulticamera3D2020.md",
     "Pasted image 20230803154405.png",
     "Reading Notes/@fabbriLearningDetectTrack2018.md",
     "Reading notes/@fabbriLearningDetectTrack2018.md",
     "Reading notes/@liBoostingSingleFrame3D2019.md",
-    "Notes/Human Pose Estimation.md",
     "Reading notes/@pavllo3DHumanPose2019.md",
     "Action Recognition Architectures.md",
     "Reading notes/@chengDualNetworksBased2023.md",
@@ -174,7 +176,6 @@
     "conflict-files-obsidian-git.md",
     "_index.md",
     "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
-    "Reading Notes/@weiConvolutionalPoseMachines2016.md",
     "Reading Notes",
     "templates",
     "Untitled.canvas",

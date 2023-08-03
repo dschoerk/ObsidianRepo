@@ -1,7 +1,7 @@
 ![[Pasted image 20230803154405.png|500]]
 - Skeleton-based
 - Contour-based
-- Volume-based
+- Volume-based [[@tuVoxelPoseMulticamera3D2020|Hanyue2020]]
 
 
 ## Challenges for 3D HPE
