@@ -16,7 +16,9 @@ https://doi.org/10.1109/GCCE50665.2020.9292014
 
 
 
+## Datasets
 
+3D: Human3.6M http://vision.imar.ro/human3.6m/description.php, MPI-INF-3DHP https://vcai.mpi-inf.mpg.de/3dhp-dataset/
 
 
 
