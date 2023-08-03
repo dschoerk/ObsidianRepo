@@ -32,6 +32,8 @@ Estimating human poses (in 2D or 3D) is typically not temporally stable. Between
 
 ### Occlusions
 [[@fabbriLearningDetectTrack2018|Fabbri2018]]
+[[@wangOCRPoseOcclusionawareContrastive2022]]
+
 
 
 
