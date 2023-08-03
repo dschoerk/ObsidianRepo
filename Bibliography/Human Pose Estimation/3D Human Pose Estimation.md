@@ -4,6 +4,12 @@ Recording data is difficult. To measure 3D joint locations multi camera setups a
 
 ### Surface vs Joint location
 
-[[Reading Notes/@martinEvaluationDifferentMethods2021|@martinEvaluationDifferentMethods2021]][0]
+Small neural network to correct for the difference between surface and joint location: DepthFix [[Reading Notes/@martinEvaluationDifferentMethods2021|Martin2019]]
+
+
+
+
+
+
 
 
