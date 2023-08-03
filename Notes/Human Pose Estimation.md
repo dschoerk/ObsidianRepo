@@ -33,7 +33,7 @@ MPI-INF-3DHP https://vcai.mpi-inf.mpg.de/3dhp-dataset/
 HumanEva-I&II Datasets http://humaneva.is.tue.mpg.de/
 CMU Panoptic Dataset http://domedb.perception.cs.cmu.edu/ 
 MuPoTS-3D: https://vcai.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
-JTA: https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25
+JTA: https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25 (virtual)
 
 2D: 
 Penn Action http://dreamdragon.github.io/PennAction/
