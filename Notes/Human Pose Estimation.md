@@ -14,6 +14,8 @@ http://dx.doi.org/10.1109/CVPR.2019.00351
 https://doi.org/10.1109/GCCE50665.2020.9292014
 [[Reading Notes/@pavllo3DHumanPose2019|VideoPose3D]]
 
+### Person-centric coordinates
+"Most of the methods focus on single persons,  which estimate the poses in the person-centric coordinates, i.e., the coordinates based on the center of the target person. Hence,  these methods are inapplicable for multi-person 3D pose estimation, where the absolute coordinates (e.g., the camera coordinates) are  required." -  [[@chengDualNetworksBased2023|Cheng2023]]
 
 
 ## Datasets

@@ -35,9 +35,11 @@
             "id": "11270ab855cbe9fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230803151058.png"
+                "file": "Notes/Human Pose Estimation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230803151058.png",
+                "file": "Notes/Human Pose Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +138,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b224bfc1a1384f63",
+  "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
+    "Action Recognition Architectures.md",
     "Notes/Human Pose Estimation.md",
-    "Reading notes/@liBoostingSingleFrame3D2019.md",
+    "Reading notes/@chengDualNetworksBased2023.md",
+    "Reading notes/@martinEvaluationDifferentMethods2021.md",
+    "Reading Notes/@chengDualNetworksBased2023.md",
     "Images/Pasted image 20230803151058.png",
+    "Reading notes/@liBoostingSingleFrame3D2019.md",
     "Reading Notes/@liBoostingSingleFrame3D2019.md",
     "Reading notes/@pavllo3DHumanPose2019.md",
     "Images/Pasted image 20230803150127.png",
@@ -157,7 +163,6 @@
     "Bibliography/Driver Monitoring/Driver Behavior Analysis via Two-Stream Deep Convolutional Neural Network.md",
     "Bibliography/Driver Monitoring/Open Set Driver Activity Recognition.md",
     "Bibliography/Driver Monitoring/Deep CNN, Body Pose, and Body-Object Interaction Features for Drivers’ Activity Monitoring.md",
-    "Reading notes/@martinEvaluationDifferentMethods2021.md",
     "Images/Pasted image 20230803114620.png",
     "Reading Notes/@martinEvaluationDifferentMethods2021.md",
     "Emotion Recognition.md",
@@ -171,9 +176,7 @@
     "Bibliography/Contrastive Learning/SimCLR.md",
     "Reading Notes",
     "templates/post.md",
-    "Datasets/UCF.md",
     "templates",
-    "Datasets/Epic Kitchens.md",
     "Untitled.canvas",
     "Images/Pasted image 20220325101205.png"
   ]
