@@ -20,6 +20,10 @@ https://doi.org/10.1109/GCCE50665.2020.9292014
 ### Person-centric coordinates
 "Most of the methods focus on single persons,  which estimate the poses in the person-centric coordinates, i.e., the coordinates based on the center of the target person. Hence,  these methods are inapplicable for multi-person 3D pose estimation, where the absolute coordinates (e.g., the camera coordinates) are  required." -  [[@chengDualNetworksBased2023|Cheng2023]]
 
+### Occlusions
+[[@fabbriLearningDetectTrack2018|Fabbri2018]]
+
+
 
 ## Datasets
 
@@ -28,9 +32,12 @@ Human3.6M http://vision.imar.ro/human3.6m/description.php
 MPI-INF-3DHP https://vcai.mpi-inf.mpg.de/3dhp-dataset/
 HumanEva-I&II Datasets http://humaneva.is.tue.mpg.de/
 CMU Panoptic Dataset http://domedb.perception.cs.cmu.edu/ 
+MuPoTS-3D: https://vcai.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
+JTA: https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25
 
 2D: 
-PENN 
+Penn Action http://dreamdragon.github.io/PennAction/
+
 
 
 
