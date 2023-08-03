@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@mishraInCabinMonitoringSystem2022.md",
+                "file": "Notes/Human Pose Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@mishraInCabinMonitoringSystem2022.md",
+                "file": "Notes/Human Pose Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,10 +140,11 @@
   },
   "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
-    "Pasted image 20230803121526.png",
     "Notes/Driver and Occupant Monitoring.md",
-    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
+    "Pasted image 20230803122246.png",
     "Reading notes/@mishraInCabinMonitoringSystem2022.md",
+    "Pasted image 20230803121526.png",
+    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
     "Notes/Human Pose Estimation.md",
     "Bibliography/Driver Monitoring/Driver Anomaly Detection A Dataset and Contrastive Learning Approach.md",
     "Notes",
