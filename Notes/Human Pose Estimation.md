@@ -1,3 +1,9 @@
+![[Pasted image 20230803154405.png|500]]
+- Skeleton-based
+- Contour-based
+- Volume-based
+
+
 ## Challenges for 3D HPE
 
 ### Low availability of data
