@@ -3,6 +3,9 @@
 ### Low availability of data
 Recording data is difficult. To measure 3D joint locations multi camera setups are required. Observing a joint from multiple views allows for triangulation of the exact 3D joint location. 
 
+Semi-supervised methods: [[@liBoostingSingleFrame3D2019|Li2019]]
+
+
 ### Surface vs Joint location
 
 Small neural network to correct for the difference between surface and joint location: DepthFix [[Reading Notes/@martinEvaluationDifferentMethods2021|Martin2019]]
@@ -26,6 +29,8 @@ MPI-INF-3DHP https://vcai.mpi-inf.mpg.de/3dhp-dataset/
 HumanEva-I&II Datasets http://humaneva.is.tue.mpg.de/
 CMU Panoptic Dataset http://domedb.perception.cs.cmu.edu/ 
 
+2D: 
+PENN 
 
 
 
