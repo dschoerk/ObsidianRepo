@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Reading notes/@liBoostingSingleFrame3D2019.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Reading notes/@liBoostingSingleFrame3D2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,14 @@
   },
   "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
+    "Pasted image 20230803151058.png",
+    "Notes/Human Pose Estimation.md",
+    "Reading Notes/@liBoostingSingleFrame3D2019.md",
+    "Reading notes/@liBoostingSingleFrame3D2019.md",
     "Reading notes/@pavllo3DHumanPose2019.md",
     "Pasted image 20230803150127.png",
     "Pasted image 20230803150100.png",
     "Pasted image 20230803150049.png",
-    "Notes/Human Pose Estimation.md",
     "Reading Notes/@pavllo3DHumanPose2019.md",
     "Notes/Driver and Occupant Monitoring.md",
     "Pasted image 20230803122246.png",
@@ -173,8 +176,6 @@
     "Datasets/UCF.md",
     "templates",
     "Datasets/Epic Kitchens.md",
-    "Datasets/Driver Monitoring.md",
-    "Datasets/AVA.md",
     "Untitled.canvas",
     "Images/Pasted image 20220325101205.png"
   ]
