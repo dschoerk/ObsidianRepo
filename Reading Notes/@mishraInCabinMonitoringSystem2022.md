@@ -5,5 +5,5 @@ year: 2022
 ---
 
 
-![[Pasted image 20230803121526.png]] 
+![[Images/Pasted image 20230803121526.png]]6.png]] 
 Example for occupant monitoring

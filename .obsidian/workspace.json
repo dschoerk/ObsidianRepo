@@ -35,11 +35,9 @@
             "id": "11270ab855cbe9fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230803151058.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Images/Pasted image 20230803151058.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,19 +138,19 @@
   },
   "active": "b224bfc1a1384f63",
   "lastOpenFiles": [
-    "Reading notes/@liBoostingSingleFrame3D2019.md",
-    "Pasted image 20230803151058.png",
     "Notes/Human Pose Estimation.md",
+    "Reading notes/@liBoostingSingleFrame3D2019.md",
+    "Images/Pasted image 20230803151058.png",
     "Reading Notes/@liBoostingSingleFrame3D2019.md",
     "Reading notes/@pavllo3DHumanPose2019.md",
-    "Pasted image 20230803150127.png",
-    "Pasted image 20230803150100.png",
-    "Pasted image 20230803150049.png",
+    "Images/Pasted image 20230803150127.png",
+    "Images/Pasted image 20230803150100.png",
+    "Images/Pasted image 20230803150049.png",
     "Reading Notes/@pavllo3DHumanPose2019.md",
     "Notes/Driver and Occupant Monitoring.md",
-    "Pasted image 20230803122246.png",
+    "Images/Pasted image 20230803122246.png",
     "Reading notes/@mishraInCabinMonitoringSystem2022.md",
-    "Pasted image 20230803121526.png",
+    "Images/Pasted image 20230803121526.png",
     "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
     "Bibliography/Driver Monitoring/Driver Anomaly Detection A Dataset and Contrastive Learning Approach.md",
     "Notes",
@@ -160,7 +158,7 @@
     "Bibliography/Driver Monitoring/Open Set Driver Activity Recognition.md",
     "Bibliography/Driver Monitoring/Deep CNN, Body Pose, and Body-Object Interaction Features for Drivers’ Activity Monitoring.md",
     "Reading notes/@martinEvaluationDifferentMethods2021.md",
-    "Pasted image 20230803114620.png",
+    "Images/Pasted image 20230803114620.png",
     "Reading Notes/@martinEvaluationDifferentMethods2021.md",
     "Emotion Recognition.md",
     "Notes/Human Pose Estimation",

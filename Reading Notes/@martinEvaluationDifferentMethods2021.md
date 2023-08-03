@@ -4,4 +4,4 @@ authors: Manuel Martin, Michael Voit, Rainer Stiefelhagen
 year: 2021
 ---
 
-![[Pasted image 20230803114620.png]]
+![[Images/Pasted image 20230803114620.png]]0.png]]

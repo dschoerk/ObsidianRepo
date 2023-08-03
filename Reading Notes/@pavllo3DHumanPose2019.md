@@ -6,8 +6,6 @@ year: 2019
 
 Videopose3d: https://github.com/facebookresearch/VideoPose3D
 
-![[Pasted image 20230803150049.png]]
-
-![[Pasted image 20230803150127.png]]
+![[Images/Pasted image 20230803150049.png]]9.![[Images/Pasted image 20230803150127.png]]03150127.png]]
 
 
