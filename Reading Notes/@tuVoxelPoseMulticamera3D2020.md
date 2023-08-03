@@ -4,4 +4,6 @@ authors: Hanyue Tu, Chunyu Wang, Wenjun Zeng
 year: 2020
 ---
 
-Multiperson 3D pose 
+https://github.com/microsoft/voxelpose-pytorch
+
+Multiperson 3D pose estimation
