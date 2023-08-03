@@ -2,9 +2,8 @@
 - Skeleton-based
 - Contour-based
 - Volume-based [[@tuVoxelPoseMulticamera3D2020|Hanyue2020]] [SMPL model](https://smpl.is.tue.mpg.de/) [STAR model](https://star.is.tue.mpg.de/) [Example videos](https://youtu.be/bVRXPO0Uv0g?t=870)
-- 
-- 
 
+General note: Lifting from 2D->3D is very common. 
 
 ## Challenges for 3D HPE
 
@@ -23,7 +22,7 @@ Small neural network to correct for the difference between surface and joint loc
 Estimating human poses (in 2D or 3D) is typically not temporally stable. Between frames we may observe strange jittering of joint locations. In previous work temporal information from videos was used to create more stable poses over time. 
 
 [[@katoLeveragingTemporalJoint2020|Kato2020]] uses temporal information to resolve depth ambiguity in lifting from 2D to 3D poses
-[[Reading Notes/@pavllo3DHumanPose2019|VideoPose3D]] 
+[[Reading Notes/@pavllo3DHumanPose2019|VideoPose3D]] Temporal convolutions over 2D pose keypoints
 [[@arnabExploitingTemporalContext2019|Arnab2019]] based on SMPL model
 
 
