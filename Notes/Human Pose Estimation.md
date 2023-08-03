@@ -8,6 +8,13 @@ Recording data is difficult. To measure 3D joint locations multi camera setups a
 Small neural network to correct for the difference between surface and joint location: DepthFix [[Reading Notes/@martinEvaluationDifferentMethods2021|Martin2019]]
 
 
+## Refine poses with temporal information 
+
+http://dx.doi.org/10.1109/CVPR.2019.00351
+https://doi.org/10.1109/GCCE50665.2020.9292014
+
+
+
 
 
 
