@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emotion Recognition.md",
+                "file": "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emotion Recognition.md",
+                "file": "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b224bfc1a1384f63",
+  "active": "11270ab855cbe9fc",
   "lastOpenFiles": [
-    "Bibliography/Untitled",
-    "Datasets/Action Recognition Datasets.md",
     "Emotion Recognition.md",
+    "Bibliography/Human Pose Estimation/3D Human Pose Estimation.md",
+    "Bibliography/Human Pose Estimation",
+    "Datasets/Action Recognition Datasets.md",
     "conflict-files-obsidian-git.md",
     "_index.md",
     "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
