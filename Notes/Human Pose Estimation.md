@@ -1,7 +1,8 @@
 ![[Pasted image 20230803154405.png|500]]
 - Skeleton-based
 - Contour-based
-- Volume-based [[@tuVoxelPoseMulticamera3D2020|Hanyue2020]] [SMPL model](https://smpl.is.tue.mpg.de/) [STAR model](https://star.is.tue.mpg.de/)
+- Volume-based [[@tuVoxelPoseMulticamera3D2020|Hanyue2020]] [SMPL model](https://smpl.is.tue.mpg.de/) [STAR model](https://star.is.tue.mpg.de/) [Example videos](https://youtu.be/bVRXPO0Uv0g?t=870)
+- 
 - 
 
 
@@ -45,6 +46,7 @@ CMU Panoptic Dataset http://domedb.perception.cs.cmu.edu/
 MuPoTS-3D: https://vcai.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
 JTA: https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25 (virtual)
 Shelf/Campus datasets: https://campar.in.tum.de/Chair/MultiHumanPose
+SURREAL: ? (virtual)
 
 2D: 
 Penn Action http://dreamdragon.github.io/PennAction/
