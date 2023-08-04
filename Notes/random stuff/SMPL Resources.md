@@ -33,7 +33,7 @@ MANO hand model
 ![[Pasted image 20230804113656.png]]
 On the Benefits of 3D Pose and Tracking for Human Action Recognition, CVPR 2023
 
-
+![[Pasted image 20230804120742.png]]Kim, Seong-heum and Donghyeon Cho. “Viewpoint-Aware Action Recognition Using Skeleton-Based Features from Still Images.” _Electronics_ 10 (2021): 1118.
 
 
 
