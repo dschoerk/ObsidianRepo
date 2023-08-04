@@ -1,3 +1,7 @@
+- 2D -> 3D Lifting
+- Direct regression
+- Probability maps
+- Pose and shape estimation
 
 "In this section, we review state-of-the-art works on 3D human pose estimation from still [RGB images](https://www.sciencedirect.com/topics/engineering/rgb-image "Learn more about RGB images from ScienceDirect's AI-generated Topic Pages").
 
@@ -11,7 +15,7 @@
 
 
 
-
+## SMPL Resources
 
 list of SMPL datasets https://www.youtube.com/watch?v=bVRXPO0Uv0g&t=952s
 

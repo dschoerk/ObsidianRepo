@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/random stuff/SMPL Resources.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/random stuff/SMPL Resources.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
     "Pasted image 20230804111357.png",
     "Pasted image 20230804111224.png",
     "Notes/random stuff/Sources for 3D human models.md",
-    "Notes/random stuff/SMPL Resources.md",
+    "Notes/random stuff/Pose estimation SOTA.md",
     "Notes/Human Pose Estimation.md",
     "Notes/random stuff",
     "Notes/Driver and Occupant Monitoring.md",
