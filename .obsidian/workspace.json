@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Ideas/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Ideas/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6985168da51970d",
+  "active": "b224bfc1a1384f63",
   "lastOpenFiles": [
     "Notes/random stuff/Pose estimation SOTA.md",
-    "Ideas.md",
+    "Ideas/Ideas.md",
     "Ideas",
     "Notes/Human Pose Estimation.md",
     "Notes/Driver and Occupant Monitoring.md",
