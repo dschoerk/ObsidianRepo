@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Notes/@damenEPICKITCHENSDatasetCollection2021.md",
+                "file": "Bibliography/Contrastive Learning/SimCLR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d83bdf1372c2159",
+            "id": "4ab56c89cf05b992",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,21 +118,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d83bdf1372c2159",
+  "active": "4ab56c89cf05b992",
   "lastOpenFiles": [
     "Notes/Human Pose Estimation.md",
     "Notes/Driver and Occupant Monitoring.md",
-    "Notes/random stuff/Pose estimation SOTA.md",
-    "Notes/random stuff/Sources for 3D human models.md",
-    "Reading notes/@wangOCRPoseOcclusionawareContrastive2022.md",
+    "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
+    "Reading Notes/@tuVoxelPoseMulticamera3D2020.md",
+    "Reading Notes/@pavllo3DHumanPose2019.md",
+    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
+    "Reading Notes/@martinEvaluationDifferentMethods2021.md",
+    "Reading Notes/@liBoostingSingleFrame3D2019.md",
+    "Reading Notes/@katoLeveragingTemporalJoint2020.md",
+    "Reading Notes/@fabbriLearningDetectTrack2018.md",
+    "Reading Notes/@chengDualNetworksBased2023.md",
+    "Reading Notes/@arnabExploitingTemporalContext2019.md",
     "Pasted image 20230804120910.png",
     "Pasted image 20230804120742.png",
     "Pasted image 20230804113656.png",
@@ -143,31 +150,24 @@
     "Pasted image 20230804111614.png",
     "Pasted image 20230804111428.png",
     "Pasted image 20230804111357.png",
+    "Notes/random stuff/Sources for 3D human models.md",
+    "Notes/random stuff/Pose estimation SOTA.md",
     "Notes/random stuff",
-    "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
-    "Datasets/Action Recognition Datasets.md",
-    "Reading notes/@fabbriLearningDetectTrack2018.md",
-    "Reading notes/@pavllo3DHumanPose2019.md",
-    "Reading notes/@katoLeveragingTemporalJoint2020.md",
-    "Reading notes/@arnabExploitingTemporalContext2019.md",
-    "Reading Notes/@katoLeveragingTemporalJoint2020.md",
-    "Reading Notes/@arnabExploitingTemporalContext2019.md",
-    "Reading notes/@tuVoxelPoseMulticamera3D2020.md",
-    "Reading Notes/@tuVoxelPoseMulticamera3D2020.md",
-    "Reading Notes/@fabbriLearningDetectTrack2018.md",
-    "Reading notes/@liBoostingSingleFrame3D2019.md",
-    "Action Recognition Architectures.md",
-    "Reading notes/@chengDualNetworksBased2023.md",
-    "Reading notes/@martinEvaluationDifferentMethods2021.md",
-    "Reading Notes/@chengDualNetworksBased2023.md",
-    "Reading Notes/@liBoostingSingleFrame3D2019.md",
-    "Reading Notes/@pavllo3DHumanPose2019.md",
-    "Reading notes/@mishraInCabinMonitoringSystem2022.md",
-    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
     "Notes",
-    "Notes/Human Pose Estimation",
-    "Reading Notes",
+    "Emotion Recognition.md",
+    "Notes on Emotion Recognition.md",
+    "templates/post.md",
     "templates",
+    "_index.md",
+    "Bibliography/Contrastive Learning/SimCLR.md",
+    "Bibliography/Contrastive Learning/TCLR.md",
+    "Bibliography/Contrastive Learning/Barlow Twins.md",
+    "Video Understanding.md",
+    "Talks & Presentations.md",
+    "Researchers.md",
+    "Research Questions.md",
+    "PhD Thesis.md",
+    "Reading Notes",
     "Untitled.canvas"
   ]
 }
