@@ -4,6 +4,10 @@ introduction to SMPL https://smpl-made-simple.is.tue.mpg.de/
 
 TransPose https://xinyu-yi.github.io/TransPose/ Pose from inertial sensors
 
+![[Pasted image 20230804112557.png]]
+T: Template, J: Joints, W: vertice weights from joints, beta: bodyshape, theta: pose 
+allows to learn corrections under different poses, standard skinning suffers e.g. from candy wrapper effect
+
 ![[Pasted image 20230804111918.png]]
 idea is factorization of 3d model into "pose" and "identity"
 
