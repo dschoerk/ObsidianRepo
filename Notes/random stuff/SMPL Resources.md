@@ -30,6 +30,9 @@ MANO hand model
 ![[Pasted image 20230804113256.png]]
 [Gül Varol](https://imagine.enpc.fr/~varolg/), [Ivan Laptev](http://www.di.ens.fr/~laptev/) and [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/), _Synthetic Humans for Action Recognition from Unseen Viewpoints_, IJCV 2021.
 
+![[Pasted image 20230804113656.png]]
+On the Benefits of 3D Pose and Tracking for Human Action Recognition, CVPR 2023
+
 
 
 
