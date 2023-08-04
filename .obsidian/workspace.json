@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +128,11 @@
   },
   "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
-    "Reading notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Notes/Human Pose Estimation.md",
     "Notes/Driver and Occupant Monitoring.md",
     "Notes/random stuff/Pose estimation SOTA.md",
+    "Notes/random stuff/Sources for 3D human models.md",
+    "Reading notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Pasted image 20230804120910.png",
     "Pasted image 20230804120742.png",
     "Pasted image 20230804113656.png",
@@ -142,7 +143,6 @@
     "Pasted image 20230804111614.png",
     "Pasted image 20230804111428.png",
     "Pasted image 20230804111357.png",
-    "Notes/random stuff/Sources for 3D human models.md",
     "Notes/random stuff",
     "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Datasets/Action Recognition Datasets.md",
