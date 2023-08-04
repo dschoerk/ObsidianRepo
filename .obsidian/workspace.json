@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/random stuff/list of SMPL datasets.md",
+                "file": "Notes/random stuff/SMPL Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/random stuff/list of SMPL datasets.md",
+                "file": "Notes/random stuff/SMPL Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
   "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
     "Notes/random stuff/Sources for 3D human models.md",
-    "Notes/random stuff/list of SMPL datasets.md",
+    "Notes/random stuff/SMPL Resources.md",
     "Pasted image 20230804093954.png",
     "Notes/Human Pose Estimation.md",
     "Notes/random stuff",
