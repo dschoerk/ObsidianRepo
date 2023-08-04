@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/Driver and Occupant Monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/Driver and Occupant Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +126,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d83bdf1372c2159",
+  "active": "b224bfc1a1384f63",
   "lastOpenFiles": [
+    "Notes/Human Pose Estimation.md",
     "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Reading notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Datasets/Action Recognition Datasets.md",
     "Reading notes/@fabbriLearningDetectTrack2018.md",
-    "Notes/Human Pose Estimation.md",
     "Reading notes/@pavllo3DHumanPose2019.md",
     "Reading notes/@katoLeveragingTemporalJoint2020.md",
     "Reading notes/@arnabExploitingTemporalContext2019.md",
