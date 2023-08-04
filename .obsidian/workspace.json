@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/random stuff/Sources for 3D human models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Human Pose Estimation.md",
+                "file": "Notes/random stuff/Sources for 3D human models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,11 @@
   },
   "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
-    "Notes/Driver and Occupant Monitoring.md",
+    "Pasted image 20230804093954.png",
     "Notes/Human Pose Estimation.md",
+    "Notes/random stuff/Sources for 3D human models.md",
+    "Notes/random stuff",
+    "Notes/Driver and Occupant Monitoring.md",
     "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Reading notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Datasets/Action Recognition Datasets.md",
@@ -160,8 +163,6 @@
     "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
     "Bibliography/Driver Monitoring/Driver Anomaly Detection A Dataset and Contrastive Learning Approach.md",
     "Notes",
-    "Bibliography/Driver Monitoring/Driver Behavior Analysis via Two-Stream Deep Convolutional Neural Network.md",
-    "Bibliography/Driver Monitoring/Open Set Driver Activity Recognition.md",
     "Images/Pasted image 20230803114620.png",
     "Notes/Human Pose Estimation",
     "Reading Notes",
