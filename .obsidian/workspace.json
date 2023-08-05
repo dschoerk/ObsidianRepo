@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76f997418f5bd8d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b224bfc1a1384f63",
+  "active": "76f997418f5bd8d1",
   "lastOpenFiles": [
     "Notes/random stuff/Pose estimation SOTA.md",
     "Ideas/Ideas.md",
