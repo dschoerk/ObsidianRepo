@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +137,9 @@
   },
   "active": "dd022e4e89bb606e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ideas/Ideas.md",
+    "Ideas",
     "Notes/Human Pose Estimation.md",
     "Notes/Driver and Occupant Monitoring.md",
     "Notes/random stuff/Pose estimation SOTA.md",
@@ -173,7 +175,6 @@
     "Reading Notes/@liBoostingSingleFrame3D2019.md",
     "Reading Notes/@pavllo3DHumanPose2019.md",
     "Reading notes/@mishraInCabinMonitoringSystem2022.md",
-    "Reading Notes/@mishraInCabinMonitoringSystem2022.md",
     "Notes",
     "Notes/Human Pose Estimation",
     "Reading Notes",
