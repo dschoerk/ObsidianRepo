@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/random stuff/Pose estimation SOTA.md",
+                "file": "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/random stuff/Pose estimation SOTA.md",
+                "file": "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +128,17 @@
   },
   "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
+    "Reading Notes/@rajasegaranBenefits3DPose.md",
+    "Reading notes/@rajasegaranBenefits3DPose.md",
+    "Action Recognition Architectures.md",
+    "Reading Notes/@liMViTv2ImprovedMultiscale2022.md",
+    "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
+    "Tasks/Action Recognition.md",
+    "Notes/random stuff/Pose estimation SOTA.md",
     "Pasted image 20230807092654.png",
     "Notes/Driver and Occupant Monitoring.md",
     "Notes/Human Pose Estimation.md",
     "Notes/random stuff/Sources for 3D human models.md",
-    "Notes/random stuff/Pose estimation SOTA.md",
     "conflict-files-obsidian-git.md",
     "Ideas/Ideas.md",
     "Ideas",
@@ -146,7 +152,6 @@
     "Pasted image 20230804111752.png",
     "Pasted image 20230804111614.png",
     "Pasted image 20230804111428.png",
-    "Pasted image 20230804111357.png",
     "Notes/random stuff",
     "Reading Notes/@wangOCRPoseOcclusionawareContrastive2022.md",
     "Datasets/Action Recognition Datasets.md",
@@ -160,12 +165,7 @@
     "Reading Notes/@tuVoxelPoseMulticamera3D2020.md",
     "Reading Notes/@fabbriLearningDetectTrack2018.md",
     "Reading notes/@liBoostingSingleFrame3D2019.md",
-    "Action Recognition Architectures.md",
     "Reading notes/@chengDualNetworksBased2023.md",
-    "Reading notes/@martinEvaluationDifferentMethods2021.md",
-    "Reading Notes/@chengDualNetworksBased2023.md",
-    "Reading Notes/@liBoostingSingleFrame3D2019.md",
-    "Reading Notes/@pavllo3DHumanPose2019.md",
     "Notes",
     "Notes/Human Pose Estimation",
     "Reading Notes",
