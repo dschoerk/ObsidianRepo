@@ -67,4 +67,9 @@ Expose: estimate SMPL with neural networks
 Saqlain, Muhammad et al. “3DMesh-GAR: 3D Human Body Mesh-Based Method for Group Activity Recognition.” _Sensors (Basel, Switzerland)_ 22 (2022): n. pag.
 
 
+"Total Capture: A 3D Deformation Model for  
+Tracking Faces, Hands, and Bodies"
+https://www.cs.cmu.edu/~hanbyulj/totalcapture/
+Video shows examples for very subtle motion for assembly and playing musical instruments. Comparison of ADAM and frankmocap. 
+
 
