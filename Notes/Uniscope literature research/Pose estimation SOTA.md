@@ -75,3 +75,5 @@ Video shows examples for very subtle motion for assembly and playing musical ins
 
 "Improvement of Human Action Recognition Using 3D Pose Estimation"  
 [[@adachiImprovementHumanAction2021]]
+
+[[@zhangPyMAFXWellAlignedFullBody2023]] "PyMAF-X: Towards Well-Aligned Full-Body Model Regression From Monocular Images"
