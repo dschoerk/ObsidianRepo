@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Uniscope literature research/Pose estimation SOTA.md",
+                "file": "Notes/Uniscope literature research/Human Pose Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Uniscope literature research/Pose estimation SOTA.md",
+                "file": "Notes/Uniscope literature research/Human Pose Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +152,11 @@
   },
   "active": "f84387b1d4c42552",
   "lastOpenFiles": [
+    "Notes/random stuff/Sources for 3D human models.md",
+    "Notes/Uniscope literature research/Pose estimation SOTA.md",
     "Reading Notes/@zhangPyMAFXWellAlignedFullBody2023.md",
     "Reading notes/@zhangPyMAFXWellAlignedFullBody2023.md",
     "Notes/Uniscope literature research/Human Pose Estimation.md",
-    "Notes/random stuff/Sources for 3D human models.md",
     "Notes/random stuff/Driver and Occupant Monitoring.md",
     "Bibliography/Action Recognition/TCL.md",
     "Bibliography/Action Recognition/ACAR-Net.md",
@@ -167,7 +168,6 @@
     "Datasets/HMDB51.md",
     "Datasets/Kinetics.md",
     "Datasets/UCF.md",
-    "Notes/Uniscope literature research/Pose estimation SOTA.md",
     "Tasks/Action Recognition.md",
     "Notes/random stuff",
     "Reading notes/@adachiImprovementHumanAction2021.md",
