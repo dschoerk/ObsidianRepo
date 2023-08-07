@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f96837d4b2f635d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading notes/@adachiImprovementHumanAction2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
+                "file": "Notes/random stuff/Pose estimation SOTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,13 +140,15 @@
   },
   "active": "4d83bdf1372c2159",
   "lastOpenFiles": [
+    "Reading notes/@adachiImprovementHumanAction2021.md",
+    "Notes/random stuff/Pose estimation SOTA.md",
+    "Reading Notes/@adachiImprovementHumanAction2021.md",
+    "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
     "Reading Notes/@rajasegaranBenefits3DPose.md",
     "Reading notes/@rajasegaranBenefits3DPose.md",
     "Action Recognition Architectures.md",
     "Reading Notes/@liMViTv2ImprovedMultiscale2022.md",
-    "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
     "Tasks/Action Recognition.md",
-    "Notes/random stuff/Pose estimation SOTA.md",
     "Pasted image 20230807092654.png",
     "Notes/Driver and Occupant Monitoring.md",
     "Notes/Human Pose Estimation.md",
@@ -164,8 +178,6 @@
     "Reading notes/@tuVoxelPoseMulticamera3D2020.md",
     "Reading Notes/@tuVoxelPoseMulticamera3D2020.md",
     "Reading Notes/@fabbriLearningDetectTrack2018.md",
-    "Reading notes/@liBoostingSingleFrame3D2019.md",
-    "Reading notes/@chengDualNetworksBased2023.md",
     "Notes",
     "Notes/Human Pose Estimation",
     "Reading Notes",

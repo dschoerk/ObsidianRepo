@@ -73,3 +73,5 @@ https://www.cs.cmu.edu/~hanbyulj/totalcapture/
 Video shows examples for very subtle motion for assembly and playing musical instruments. Comparison of ADAM and frankmocap. 
 
 
+"Improvement of Human Action Recognition Using 3D Pose Estimation"  
+[[@adachiImprovementHumanAction2021]]
