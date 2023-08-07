@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd022e4e89bb606e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d83bdf1372c2159",
+  "active": "dd022e4e89bb606e",
   "lastOpenFiles": [
     "Notes/Human Pose Estimation.md",
     "Notes/Driver and Occupant Monitoring.md",
