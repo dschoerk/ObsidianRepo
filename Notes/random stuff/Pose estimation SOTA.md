@@ -57,7 +57,8 @@ Expose: estimate SMPL with neural networks
 [Gül Varol](https://imagine.enpc.fr/~varolg/), [Ivan Laptev](http://www.di.ens.fr/~laptev/) and [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/), _Synthetic Humans for Action Recognition from Unseen Viewpoints_, IJCV 2021.
 
 ![[Pasted image 20230804113656.png]]
-On the Benefits of 3D Pose and Tracking for Human Action Recognition, CVPR 2023
+"On the Benefits of 3D Pose and Tracking for Human Action Recognition", CVPR 2023
+
 
 ![[Pasted image 20230804120742.png]]Kim, Seong-heum and Donghyeon Cho. “Viewpoint-Aware Action Recognition Using Skeleton-Based Features from Still Images.” _Electronics_ 10 (2021): 1118.
 
