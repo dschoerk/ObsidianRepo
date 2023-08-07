@@ -48,6 +48,11 @@ MANO hand model
 
 ![[Pasted image 20230804111224.png]] DECA, Learning animatable detailed 3d face model from in-the-wild images, feng et al., siggraph 2021
 
+![[Pasted image 20230807092654.png]]
+https://expose.is.tue.mpg.de/, source: https://youtu.be/lNTmHLYTiB8?t=228
+Expose: estimate SMPL with neural networks
+
+
 ![[Pasted image 20230804113256.png]]
 [Gül Varol](https://imagine.enpc.fr/~varolg/), [Ivan Laptev](http://www.di.ens.fr/~laptev/) and [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/), _Synthetic Humans for Action Recognition from Unseen Viewpoints_, IJCV 2021.
 
