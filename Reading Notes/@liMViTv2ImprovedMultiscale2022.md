@@ -6,4 +6,4 @@ year: 2022
 
 used in [[@rajasegaranBenefits3DPose]] to compare mvit action recognition including tracking and 3d pose. 
 
-
+code available https://github.com/facebookresearch/mvit
