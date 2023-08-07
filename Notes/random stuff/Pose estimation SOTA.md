@@ -27,6 +27,8 @@ TransPose https://xinyu-yi.github.io/TransPose/ Pose from inertial sensors
 T: Template, J: Joints, W: vertice weights from joints, beta: bodyshape, theta: pose 
 allows to learn corrections under different poses, standard skinning suffers e.g. from candy wrapper effect
 
+Example of T_F(beta, theta) change of template due to pose https://youtu.be/rzpiSYTrRU0?t=3549
+
 ![[Pasted image 20230804111918.png]]
 idea is factorization of 3d model into "pose" and "identity"
 
