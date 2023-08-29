@@ -13,6 +13,7 @@ Recording data is difficult. To measure 3D joint locations multi camera setups a
 Semi-supervised methods: [[@liBoostingSingleFrame3D2019|Li2019]] use video to increase training data
 
 
+
 ### Surface vs Joint location
 
 Small neural network to correct for the difference between surface and joint location: DepthFix [[Reading Notes/@martinEvaluationDifferentMethods2021|Martin2019]]
@@ -51,6 +52,20 @@ SURREAL: ? (virtual)
 
 2D: 
 Penn Action http://dreamdragon.github.io/PennAction/
+
+
+
+
+## Software Packages
+
+| Link | Notes |
+| - | - |
+| https://github.com/openxrlab/xrmocap | Multi-view motion capture from images |
+| https://github.com/JunukCha/MultiPerson | Working demo with SMPL |
+| https://github.com/vchoutas/smplify-x/ | Difficult setup with many dependencies; didn't run |
+
+
+
 
 
 
