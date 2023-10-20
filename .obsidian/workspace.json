@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Uniscope literature research/Human Pose Estimation.md",
+                "file": "Notes/Scene Bias in Video Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Uniscope literature research/Human Pose Estimation.md",
+                "file": "Notes/Scene Bias in Video Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,11 +148,15 @@
   },
   "active": "f84387b1d4c42552",
   "lastOpenFiles": [
+    "Pasted image 20231020111626.png",
+    "Tasks/Action Recognition.md",
+    "Notes/Scene Bias in Video Classification.md",
+    "Ideas/Ideas.md",
+    "Notes/Uniscope literature research/Human Pose Estimation.md",
     "Notes/random stuff/Sources for 3D human models.md",
     "Notes/Uniscope literature research/Pose estimation SOTA.md",
     "Reading Notes/@zhangPyMAFXWellAlignedFullBody2023.md",
     "Reading notes/@zhangPyMAFXWellAlignedFullBody2023.md",
-    "Notes/Uniscope literature research/Human Pose Estimation.md",
     "Notes/random stuff/Driver and Occupant Monitoring.md",
     "Bibliography/Action Recognition/TCL.md",
     "Bibliography/Action Recognition/ACAR-Net.md",
@@ -164,7 +168,6 @@
     "Datasets/HMDB51.md",
     "Datasets/Kinetics.md",
     "Datasets/UCF.md",
-    "Tasks/Action Recognition.md",
     "Notes/random stuff",
     "Reading notes/@adachiImprovementHumanAction2021.md",
     "Pasted image 20230807105008.png",
@@ -174,10 +177,7 @@
     "Reading Notes/@rajasegaranBenefits3DPose.md",
     "Reading notes/@rajasegaranBenefits3DPose.md",
     "Action Recognition Architectures.md",
-    "Reading Notes/@liMViTv2ImprovedMultiscale2022.md",
     "Pasted image 20230807092654.png",
-    "conflict-files-obsidian-git.md",
-    "Ideas/Ideas.md",
     "Ideas",
     "Pasted image 20230804120910.png",
     "Pasted image 20230804120742.png",
