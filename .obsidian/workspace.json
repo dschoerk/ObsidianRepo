@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Scene Bias in Video Classification.md",
+                "file": "Talks & Presentations.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scene Bias in Video Classification.md",
+                "file": "Talks & Presentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +148,12 @@
   },
   "active": "f84387b1d4c42552",
   "lastOpenFiles": [
+    "Researchers.md",
+    "Research Questions.md",
+    "PhD Thesis.md",
+    "Notes/Scene Bias in Video Classification.md",
     "Pasted image 20231020111626.png",
     "Tasks/Action Recognition.md",
-    "Notes/Scene Bias in Video Classification.md",
     "Ideas/Ideas.md",
     "Notes/Uniscope literature research/Human Pose Estimation.md",
     "Notes/random stuff/Sources for 3D human models.md",
@@ -175,8 +178,6 @@
     "Reading Notes/@adachiImprovementHumanAction2021.md",
     "Reading notes/@liMViTv2ImprovedMultiscale2022.md",
     "Reading Notes/@rajasegaranBenefits3DPose.md",
-    "Reading notes/@rajasegaranBenefits3DPose.md",
-    "Action Recognition Architectures.md",
     "Pasted image 20230807092654.png",
     "Ideas",
     "Pasted image 20230804120910.png",
@@ -185,7 +186,6 @@
     "Pasted image 20230804113256.png",
     "Pasted image 20230804112557.png",
     "Pasted image 20230804111918.png",
-    "Pasted image 20230804111752.png",
     "Notes/Uniscope literature research",
     "Notes",
     "Notes/Human Pose Estimation",
